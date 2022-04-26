@@ -1,0 +1,64 @@
+{
+  "name": "closlykomutsuz",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "figlet": "^1.2.4",
+    "fs": "^0.0.2",
+    "g-image-search": "^1.0.2",
+    "gifencoder": "^2.0.1",
+    "google": "^2.1.0",
+    "jimp": "^0.9.3",
+    "js-base64": "^2.5.1",
+    "js-robloxapi": "^1.0.6",
+    "kratos": "^2.3.3",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "node-gyp": "^6.1.0",
+    "node-opus": "^0.3.2",
+    "node-superfetch": "^0.1.9",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "pixula-v2": "^1.0.5",
+    "quick-db": "^1.0.5",
+    "quick.db": "^6.3.2",
+    "random-puppy": "^1.1.0",
+    "randomstring": "^1.1.5",
+    "rebuild": "^0.1.2",
+    "request": "^2.88.0",
+    "server.js": "^1.0.0",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "speedtest-net": "^1.6.0",
+    "sqlite": "^3.0.3",
+    "steam-provider": "^0.2.0",
+    "steamcommunity": "^3.41.2",
+    "superagent": "^5.2.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^1.0.6"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
